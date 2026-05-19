@@ -4,7 +4,7 @@ I build AI-native products and ship working examples that bridge the gap between
 
 Most of my work is hands-on: AI vibe coding, agentic workflows, product strategy teardowns, and real-world implementation of AI evaluation frameworks (RAGAS, DeepEval) and Agent-to-UI (A2UI) protocols.
 
-I run the open-source [Ustaad Experiments](https://github.com/aadhar-build/ustaad-experiments-repo), the repo where I drop complete demo builds, agentic UI prototypes, and metrics-driven sandboxes to help PMs and devs skip the theory and get straight to building.
+My hands-on experiments — complete demo builds, agentic UI prototypes, and metrics-driven sandboxes — live at **[aadhar.build](https://aadhar.build)**. Private repo, public learnings.
 
 **What I work on**
 
