@@ -1,25 +1,26 @@
-<h1> Hi, I'm Aadhar 👋 </h1>
+<h1>Hi, I'm Aadhar</h1>
 
-I build AI-native products and ship working examples that bridge the gap between AI strategy and execution.
+Senior AI Product Manager. I ship AI-native products and build the tools to evaluate them.
 
-Most of my work is hands-on: AI vibe coding, agentic workflows, product strategy teardowns, and real-world implementation of AI evaluation frameworks (RAGAS, DeepEval) and Agent-to-UI (A2UI) protocols.
+15+ years across Samsung Research, Airtel Digital, Brevo, and LinkedIn. Currently relocating to Europe / Nordics.
 
-My hands-on experiments — complete demo builds, agentic UI prototypes, and metrics-driven sandboxes — live at **[aadhar.build](https://aadhar.build)**. Private repo, public learnings.
+---
 
 **What I work on**
 
-- **AI-Native Product Strategy:** from ideation to Go-To-Market, telemetry, and growth-driving mechanics
-- **Agentic UI (A2UI):** dynamic, agent-driven interfaces bridging chat, filtering, and progressive rendering
-- **AI Evals & Telemetry:** LLM-as-a-judge, production observability, and real-world evaluation metrics
-- **Hands-on AI Prototypes:** clone → install → run demos (like my What-to-Eat app and UI-heavy sandboxes)
-- **EU Compliance (AI Act & GDPR):** bridging cutting-edge LLM features with enterprise risk tiers and regulatory frameworks
+- **AI-Native Product Strategy** — from zero to GTM, telemetry, and growth mechanics
+- **LLM Evaluation & Observability** — RAGAS, DeepEval, Langfuse, human-in-the-loop review pipelines
+- **Agentic UI (A2UI)** — dynamic interfaces that bridge chat, filtering, and progressive rendering
+- **EU AI Act compliance** — mapping product decisions to risk tiers and Article 9 requirements
 
-<h2> About Me </h2>
+---
 
-- **AI Product Leader & Senior PM** with 15+ years of experience across global brands (Samsung Research, Airtel Digital, Brevo, LinkedIn), driving outcome-led growth and AI integration.
+**Published work**
 
-- Writing about AI Product Management, working culture, and agentic workflows at **[aadhar.build](https://aadhar.build)**.
+- **[LLM Evals Comparison](https://github.com/aadhar-build/llm-evals-comparison)** — vendor-neutral decision guide for RAGAS · DeepEval · promptfoo · Langfuse · inspect_ai · OpenAI Evals. Includes a full EU AI Act mapping module. [[docs](https://aadhar-build.github.io/llm-evals-comparison)]
+- **[Argo Eval](https://github.com/aadhar-build/argo-eval)** — lightweight trace viewer and human review queue for AI agent sessions. Built for my own agents; open-sourced.
+- **Writing and experiments** at [aadhar.build](https://aadhar.build)
 
-- Operating with a **Global, customer-centric, pragmatic, and culture-first** perspective. (Currently relocating to Europe / Nordics).
+---
 
-**🌱 Building what's next in AI Agents, AI Evals, or Agentic UIs? I'd love to chat and share input. Reach me directly or check out my recent experiments.**
+*Building what's next in AI agents, evals, or agentic UIs? I'd love to connect.*
