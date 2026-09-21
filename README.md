@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aadhar</h1>
 
-Senior AI Product Manager. I ship AI-native products and build the tools to evaluate them.
+AI Product Manager | Agentic AI Builder | Fintech, Consumer AI, SaaS, Marketplace Platforms. I ship AI-native products and build the tools to evaluate them.
 
 11+ years across Samsung Research, Airtel Digital, Brevo, and LinkedIn. 
 ---
