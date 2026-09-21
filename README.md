@@ -2,7 +2,7 @@
 
 Senior AI Product Manager. I ship AI-native products and build the tools to evaluate them.
 
-15+ years across Samsung Research, Airtel Digital, Brevo, and LinkedIn. Currently relocating to Europe / Nordics.
+11+ years across Samsung Research, Airtel Digital, Brevo, and LinkedIn. Currently relocating to Europe / Nordics.
 
 ---
 
