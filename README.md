@@ -1,24 +1,16 @@
-<h1>Hi, I'm Aadhar</h1>
+# Hi, I'm Aadhar
 
-I ship AI-native products and build the tools to evaluate them. 11+ years across Samsung Research, Airtel Digital, Brevo, and LinkedIn. 
+I'm a product manager. I ship AI products and build the tooling to evaluate them. Before this I worked at Samsung Research, Airtel, Brevo and LinkedIn.
 
----
+## What I work on
 
-**What I work on**
+AI product strategy, from the first version through launch, telemetry and growth. Most of my recent work is on the part that comes after the demo: LLM evaluation and observability (RAGAS, DeepEval, Langfuse, human review queues), and mapping product decisions to EU AI Act risk tiers and Article 9 requirements.
 
-- **AI-Native Product Strategy** — from zero to GTM, telemetry, and growth mechanics
-- **LLM Evaluation & Observability** — RAGAS, DeepEval, Langfuse, human-in-the-loop review pipelines
-- **Agentic UI (A2UI)** — dynamic interfaces that bridge chat, filtering, and progressive rendering
-- **EU AI Act compliance** — mapping product decisions to risk tiers and Article 9 requirements
+## Public work
 
----
+- [claude-code-jev-router](https://github.com/aadhar-build/claude-code-jev-router) picks the model tier for a delegated Claude Code task before it spawns. Opt-in per repo, reversible in one command. v0.1 is a lookup table on purpose.
+- [llm-evals-comparison](https://github.com/aadhar-build/llm-evals-comparison) is a vendor-neutral guide to choosing between RAGAS, DeepEval, promptfoo, Langfuse, inspect_ai and OpenAI Evals, with an EU AI Act module. Also published as a [site](https://aadhar-build.github.io/llm-evals-comparison).
+- [argo-eval](https://github.com/aadhar-build/argo-eval) is a small trace viewer and human review queue for AI agent sessions. I built it for my own agents and open-sourced it.
+- Writing and experiments at [aadhar.build](https://aadhar.build).
 
-**Published work**
-
-- **[LLM Evals Comparison](https://github.com/aadhar-build/llm-evals-comparison)** — vendor-neutral decision guide for RAGAS · DeepEval · promptfoo · Langfuse · inspect_ai · OpenAI Evals. Includes a full EU AI Act mapping module. [[docs](https://aadhar-build.github.io/llm-evals-comparison)]
-- **[Argo Eval](https://github.com/aadhar-build/argo-eval)** — lightweight trace viewer and human review queue for AI agent sessions. Built for my own agents; open-sourced.
-- **Writing and experiments** at [aadhar.build](https://aadhar.build)
-
----
-
-*Building what's next in AI agents, evals, or agentic UIs? I'd love to connect.*
+If you work on agents or evals, get in touch. Email is in the sidebar.
