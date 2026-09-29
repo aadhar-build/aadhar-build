@@ -1,10 +1,10 @@
 # Hi, I'm Aadhar
 
-I'm a product manager. I ship AI products and build the tooling to evaluate them. Before this I have worked at Samsung Research, Airtel, Brevo and LinkedIn.
+I'm a product manager. I ship AI products and build the tooling to evaluate them. Before this I worked at Samsung Research, Airtel, Brevo and LinkedIn.
 
 ## What I work on
 
-AI product strategy, from the first version through launch, telemetry and growth. Most of my recent work is on the part that comes after the demo: LLM evaluation and observability (RAGAS, DeepEval, Langfuse, human review queues), and mapping product decisions to EU AI Act risk tiers and Article 9 requirements.
+AI product strategy, from the first version through launch, telemetry and growth. Most of my recent work is the part that comes after the demo: LLM evaluation and observability (RAGAS, DeepEval, Langfuse, human review queues), and mapping product decisions to EU AI Act risk tiers and Article 9 requirements.
 
 ## Public work
 
