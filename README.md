@@ -1,6 +1,6 @@
 # Hi, I'm Aadhar
 
-I'm a product manager. I ship AI products and build the tooling to evaluate them. Before this I worked at Samsung Research, Airtel, Brevo and LinkedIn.
+I'm a product manager. I ship AI products and build the tooling to evaluate them. Before this I have worked at Samsung Research, Airtel, Brevo and LinkedIn.
 
 ## What I work on
 
