@@ -13,4 +13,4 @@ AI product strategy, from the first version through launch, telemetry and growth
 - [argo-eval](https://github.com/aadhar-build/argo-eval) is a small trace viewer and human review queue for AI agent sessions. I built it for my own agents and open-sourced it.
 - Writing and experiments at [aadhar.build](https://aadhar.build).
 
-If you work on agents or evals, get in touch. Email is in the sidebar.
+If you work on agents or evals, get in touch via [aadhar.build](https://aadhar.build).
